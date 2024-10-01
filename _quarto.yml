@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs  #folder for github purposes
+
+website:
+  title: " "
+  navbar:
+    left:
+      - href: index.qmd
+        text: Holii...
+        icon: balloon-heart
+      - href: palabras.qmd
+        text: Ábreme
+        icon: box2-heart
+    right: 
+      - text: Te amo
+        icon: chat-heart
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

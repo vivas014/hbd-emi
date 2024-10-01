@@ -1,0 +1,8 @@
+---
+title: "Unas palabras para ti"
+format: 
+  html:
+    css: style.css
+---
+
+Emily...eres mi mejor amiga, mi persona favorita en este mundo, a quien más amo en toda la galaxia y alguien por quien me voy a esforzar todos los días por tener a mi lado. Gracias por todo lo que hemos vivdo, compartido, reído, llorado, comido, etc. La vida es mejor cuando estamos juntos (físicamente o a la distancia). Estoy muy feliz de poder compartir contigo tanto tiempo en esta vida y realmente espero que así sea hasta que el calentamiento global nos mate a todos. Estoy exageramente orgulloso de ver la adulta en la que te has convertido. Te admiro, te respeto y te amo con todas las sinapsis que mis dos neuronas pueden generar. Sé que este website es un poco lame (no me acuerdo muy bien a programar en JavaScript), pero lo hice con mucho cariño para mi persona favorita. Que estos 28 sean un buen año para ti. 5000+ km (medido en distancia de carretera) no son nada.
